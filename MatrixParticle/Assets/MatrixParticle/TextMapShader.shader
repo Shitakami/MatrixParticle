@@ -47,8 +47,6 @@ Shader "Unlit/TextMapShader"
             float4 _MainTex_ST;
             float _DiscardThreshold;
 
-            int _Index;
-
             uniform int _MaxIndexX;
             uniform int _MaxIndexY;
             
